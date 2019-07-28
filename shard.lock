@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  cadmium:
+    github: watzon/cadmium
+    commit: 589fcf60b24280ff0b6666ba9df54f212ebca9b0
+

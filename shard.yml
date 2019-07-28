@@ -1,0 +1,18 @@
+name: luhn-summary
+version: 0.1.0
+
+authors:
+  - Rémy Marronnier <rmarronnier@gmail.com>
+
+targets:
+  luhn-summary:
+    main: src/luhn-summary.cr
+
+dependencies:
+  cadmium:
+    github: watzon/cadmium
+    branch: master
+
+crystal: 0.29.0
+
+license: MIT
